@@ -1,0 +1,7 @@
+ase
+matplotlib
+numpy
+pymatgen
+seaborn
+torch
+torch-geometric
